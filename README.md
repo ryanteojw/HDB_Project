@@ -4,7 +4,7 @@ This project analyzes the fators that affect HDB resale prices from 2017 - 2022 
 
 ## Data
 
-The dataset used in this project was obtained from the data.gov.sg website. It contains information on the resale prices of HDB flats in Singapore from 2017 - 2022.
+The dataset used in this project was obtained from the [Data.gov](https://data.gov.sg/dataset/resale-flat-prices?resource_id=f1765b54-a209-4718-8d38-a39237f502b3) website. It contains information on the resale prices of HDB flats in Singapore from 2017 - 2022.
 
 ## EDA
 
